@@ -1,0 +1,6 @@
+java CopyDataAppBaseApkFile "/mnt/data/app/xxxx可以看见的apk报名"
+
+eg:
+     java CopyDataAppBaseApkFile "/data/app/cn.gov.pbc.dcep-ZiEo_xyY9mDiguRah9tv1w"
+
+在当前位置输出apk包（需要adb环境配置和java环境）
